@@ -1,7 +1,9 @@
 <h1 align="center">
+  RESULT:
 <img src="https://i.imgur.com/EXYEsp1.png" align="center">
   <br>
- Calculate Hamming Distance
+ 
 </h1>
-An old project which i improved code quality.
+This project is created for education purposes.
+
 
